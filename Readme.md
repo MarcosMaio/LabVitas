@@ -3,6 +3,8 @@
 
 O Vitalab é um software desenvolvido para gerenciar laboratórios de exame, proporcionando aos pacientes a facilidade de agendar exames, acompanhar seu progresso e acessar resultados. Além disso, oferece funcionalidades administrativas para a equipe de funcionários e a capacidade de compartilhar resultados com médicos.
 
+![site illustrato](https://lh3.googleusercontent.com/pw/ADCreHfRlCyAEQ3ATlLEHJKyV0Km3CU2gqC5pgVDvUPF6X7M1EaJEqLMixfL-U_qzUBVCN4xVgFmcmv15rhyTycFwIDCVTdcqFFqq8D8PfnWcWZpWLBg8D6ivEwk2odQOzfqHMucv78UqmhSMqGoiX0LMxA=w1142-h819-s-no?authuser=1)
+
 ## Funcionalidades
 
 Para Pacientes:
